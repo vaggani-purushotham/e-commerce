@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # e-commerce
 =======
-# Shoply
+# Shoppiko
 
 A modern, full-stack e-commerce app built with Next.js, Clerk authentication, MongoDB, AWS S3, and a beautiful, responsive UI.
 
